@@ -1,5 +1,5 @@
 #!/bin/bash
-# Install Zsh and the zshrc (config) file  
+# Install Zsh and the zshrc (config) file on Ubuntu 
 #
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd ) # Gets the script's current location 
