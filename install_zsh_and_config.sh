@@ -2,6 +2,9 @@
 # Install Zsh and the zshrc (config) file  
 #
 
+SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd ) # Gets the script's current location 
+
+# Install Zsh 
 sudo apt install -y zsh
     
 # If file exists, move to user's home dir 
