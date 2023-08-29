@@ -94,7 +94,7 @@ fi
 
 configure_prompt() {
     # prompt_symbol=㉿
-      prompt_symbol='☘️  '
+    # prompt_symbol='☘️  '
     # prompt_symbol='👾 '
     # prompt_symbol='👽 '
     # prompt_symbol='👻 '
@@ -106,7 +106,7 @@ configure_prompt() {
     # prompt_symbol='☣️  '
     # prompt_symbol='☢️  ' 
     # prompt_symbol='🍀 '
-    # prompt_symbol='🍄 '
+      prompt_symbol='🍄 '
     # prompt_symbol='🚀 '
     # prompt_symbol='⭐ '
     # prompt_symbol='🦉 '
