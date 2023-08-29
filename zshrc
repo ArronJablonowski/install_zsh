@@ -298,6 +298,5 @@ if [ -f /etc/zsh_command_not_found ]; then
     . /etc/zsh_command_not_found
 fi 
  
-alias networkminer='mono /opt/NetworkMiner*/NetworkMiner.exe --noupdatecheck' 
 alias ll='ls -laF'
 
