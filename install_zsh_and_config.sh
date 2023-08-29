@@ -22,3 +22,5 @@ chsh -s $(which zsh)
 
 # Set Zsh as the defualt shell for Root 
 sudo  chsh -s $(which zsh)
+
+echo 'Please reboot or logout/login'
