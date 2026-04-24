@@ -11,13 +11,6 @@ This script simplifies the installation and configuration of Zsh on Ubuntu syste
   - Enabling advanced completion features, syntax highlighting, and auto-suggestions.
   - Customizing the prompt with a visually appealing design that includes the current user, hostname, directory path, and time.
 
-## Usage
-
-### Prerequisites
-
-- Ubuntu-based system
-- Administrative privileges (sudo)
-
 ### Installation Steps
 
 1. **Download and Execute the Script**:
